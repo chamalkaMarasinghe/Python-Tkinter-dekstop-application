@@ -1,3 +1,7 @@
+Use following login credentials
+username : admin
+password : admin
+
 If you have any issues, errors with data reading or writing please
 follow the guidlines.
 
