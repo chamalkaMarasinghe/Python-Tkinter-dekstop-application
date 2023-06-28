@@ -11,3 +11,9 @@ Search and Filtering: The system enables users to search for specific inventory 
 
 Overall, the Inventory Management System built with Python Tkinter library provides businesses with an efficient and automated solution for managing their inventory. By streamlining workflows, automating tasks, and ensuring data accuracy, the application helps businesses optimize their inventory operations and enhance overall efficiency.
 
+### Screeshots of user interfaces
+![screensot 1](https://github.com/chamalkaMarasinghe/Python-Tkinter-dekstop-application/blob/main/1657479939256.jpg)
+![screensot 2](https://github.com/chamalkaMarasinghe/Python-Tkinter-dekstop-application/blob/main/1657479940360.jpg)
+![screensot 3](https://github.com/chamalkaMarasinghe/Python-Tkinter-dekstop-application/blob/main/1657479940702.jpg)
+![screensot 4](https://github.com/chamalkaMarasinghe/Python-Tkinter-dekstop-application/blob/main/1657479943143.jpg)
+
